@@ -100,3 +100,29 @@ footer {
     top: 177px;
     z-index: 0;
 }
+
+#setWidth15p{
+    width: 15%;
+}
+
+#setWidth61p{
+    width: 61%;
+}
+
+#setWidth24pcenter{
+    width: 24%;
+    text-align: center;
+}
+
+#setWidth80p{
+    width: 80%;
+}
+
+#setWidth20p{
+    width:20%;
+    text-align: left;
+}
+
+#Comments{
+    text-align: center;
+}
